@@ -1,0 +1,16 @@
+input{
+    font-size:11px;
+    padding:4px 2px;
+    border:solid 1px #aacfe4;
+    width:100px;
+    margin:0px 0 10px 0px;
+}
+.text-small{
+    font-size: xx-small;
+}
+.text-italic{
+    font-style: italic;
+}
+.text-large{
+    font-size: x-large;
+}
